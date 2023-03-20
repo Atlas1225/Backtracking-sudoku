@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lushe
+ *
+ */
+module SudokuResolver {
+}
